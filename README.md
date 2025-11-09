@@ -1,18 +1,18 @@
 <!-- Banner/Intro -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb347,100:ffcc80&height=200&section=header&text=Hey%20there!%20I'm%20Ethan%20Tong%20%F0%9F%9A%80&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!%20%F0%9F%91%8B&descAlignY=60&animation=fadeIn" alt="header"/>
 
-## 👋 About Me
+##About Me
 
 Hi! I'm **Ethan Tong** — an explorer, builder, and coder.  
 I’m passionate about connecting people, mapping cities, and crafting creative solutions.
 
-- 💡 Currently working on projects that make university life easier and the city more fun
-- 🎓 Student @ HKUST | Electronics Engineering + AI
-- 🌐 Building tools with code and curiosity
+- Currently working on projects that make university life easier and the city more fun
+- Student @ HKUST | Electronics Engineering + AI
+- Building tools with code and curiosity
 
 ---
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -24,7 +24,7 @@ I’m passionate about connecting people, mapping cities, and crafting creative 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethantong11&theme=radical" width="48%"/>
 
@@ -32,7 +32,7 @@ I’m passionate about connecting people, mapping cities, and crafting creative 
 
 ---
 
-## 🌍 Connect with Me
+## Connect with Me
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tongkingshun@gmail.com)
 

@@ -24,14 +24,6 @@ I’m passionate about connecting people, mapping cities, and crafting creative 
 
 ---
 
-## GitHub Stats
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethantong11&theme=radical" width="48%"/>
-
-<br clear="both"/>
-
----
-
 ## Connect with Me
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tongkingshun@gmail.com)

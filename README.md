@@ -3,26 +3,14 @@
 
 ##About Me
 
-Hi! I'm **Ethan Tong** — an explorer, builder, and coder.  
-I’m passionate about connecting people, mapping cities, and crafting creative solutions.
+Hi! I'm **Ethan Tong** 
 
-- Currently working on projects that make university life easier and the city more fun
+- Currently working on something cool 
 - Student @ HKUST | Electronics Engineering + AI
-- Building tools with code and curiosity
+- tongkingshun.com
 
 ---
 
-##Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
-
----
 
 ## Connect with Me
 

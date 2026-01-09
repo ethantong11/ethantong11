@@ -7,7 +7,7 @@ Hi! I'm **Ethan Tong**
 
 - Currently working on something cool 
 - Student @ HKUST | Electronics Engineering + AI
-- tongkingshun.com
+- <link tongkingshun.com>
 
 ---
 

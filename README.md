@@ -7,7 +7,7 @@ Hi! I'm **Ethan Tong**
 
 - Currently working on something cool 
 - Student @ HKUST | Electronics Engineering + AI
-- <link tongkingshun.com>
+- <a href = "www.tongkingshun.com">my website</a>
 
 ---
 

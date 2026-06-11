@@ -1,9 +1,6 @@
-<!-- Banner/Intro -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb347,100:ffcc80&height=200&section=header&text=Hey%20there!%20I'm%20Ethan%20Tong%20%F0%9F%9A%80&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile!%20%F0%9F%91%8B&descAlignY=60&animation=fadeIn" alt="header"/>
-
 ##About Me
 
-Hi! I'm **Ethan Tong** 
+Hi! I'm Ethan
 
 - Currently working on something cool 
 - Student @ HKUST | Electronics Engineering + AI
